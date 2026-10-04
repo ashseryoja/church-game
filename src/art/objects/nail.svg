@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<path d="M-26 -96L-20 -102H20L26 -96V-82H14L6 66L0 98L-6 66L-14 -82H-26Z" transform="translate(107 107) rotate(-45)" fill="#3a2618" opacity=".12"/>
+<g transform="translate(99 99) rotate(-45)" stroke="#3a2618" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-14 -82H0V98L-6 66Z" fill="#b9ad9c" stroke="none"/>
+<path d="M0 -82H14L6 66L0 98Z" fill="#8c7f6e" stroke="none"/>
+<path d="M0 -80V95" fill="none" stroke-width="2.5"/>
+<path d="M-8 -72L-4 56" fill="none" stroke="#ffffff" stroke-width="4" opacity=".5"/>
+<path d="M-10 -44l5 3M5 -24l5 3M-7 6l4 3M4 30l4 3M-4 50l3 2" fill="none" stroke-width="2.5" opacity=".45"/>
+<path d="M-14 -82H14L6 66L0 98L-6 66Z" fill="none"/>
+<path d="M-26 -96L-20 -103H20L26 -96Z" fill="#ddd3c3"/>
+<rect x="-26" y="-96" width="52" height="15" rx="3" fill="#b9ad9c"/>
+<path d="M6 -94H24V-83H6Z" fill="#3a2618" stroke="none" opacity=".14"/>
+<path d="M-20 -89H-2" fill="none" stroke="#ffffff" stroke-width="3.5" opacity=".55"/>
+<path d="M-14 -99.5H10" fill="none" stroke="#ffffff" stroke-width="2.5" opacity=".6"/>
+</g>
+</svg>

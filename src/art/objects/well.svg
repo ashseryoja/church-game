@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<ellipse cx="104" cy="180" rx="84" ry="8" fill="#3a2618" opacity=".12"/>
+<g stroke="#3a2618" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M28 118V160A56 14 0 0 0 140 160V118Z" fill="#b9ad9c"/>
+<path d="M28 146A56 14 0 0 0 140 146M50 143V157M84 146V160M118 143V157M36 153V167M66 159V173M102 159V173M132 153V167" fill="none" stroke-width="2.5"/>
+<path d="M120 132C126 140 128 160 124 172C132 168 138 164 140 160V122Z" fill="#3a2618" stroke="none" opacity=".12"/>
+<path d="M34 136V156" fill="none" stroke="#fff" stroke-width="4" opacity=".4"/>
+<ellipse cx="84" cy="118" rx="56" ry="14" fill="#ddd3c3"/>
+<ellipse cx="84" cy="118" rx="44" ry="9" fill="#2f86b0" stroke-width="3"/>
+<path d="M50 121C60 126 108 126 118 121C112 119 56 119 50 121Z" fill="#5fb3d9" stroke="none"/>
+<path d="M66 122H80M92 123H100" fill="none" stroke="#fff" stroke-width="2.5" opacity=".7"/>
+<path d="M57 125L54 130M84 127V132M111 125L114 130M48 112L43 109M120 112L125 109M84 109V104" fill="none" stroke-width="2.5"/>
+<path d="M30 44h10v80h-10ZM128 44h10v80h-10Z" fill="#8a5a36"/>
+<path d="M138 68H148V82" fill="none" stroke-width="8"/>
+<path d="M138 68H148V82" fill="none" stroke="#b88457" stroke-width="2.5"/>
+<rect x="36" y="62" width="96" height="12" rx="6" fill="#b88457"/>
+<path d="M78 63V73M84 63V73M90 63V73" fill="none" stroke-width="2.5"/>
+<path d="M84 74V84" fill="none" stroke-width="3"/>
+<path d="M72 92C72 80 96 80 96 92" fill="none" stroke-width="2.5"/>
+<path d="M71 90H97L94 108H74Z" fill="#b88457"/>
+<path d="M72 96H96M73 102H95" fill="none" stroke-width="2.5"/>
+<path d="M14 58L84 16L154 58Z" fill="#d9432b"/>
+<path d="M38 46H130M60 33H108" fill="none" stroke-width="2.5"/>
+<path d="M84 22L42 47" fill="none" stroke="#fff" stroke-width="3.5" opacity=".4"/>
+<circle cx="84" cy="15" r="5" fill="#e8b33a"/>
+<path d="M158 178C150 168 148 152 152 142C155 134 160 130 162 126V118C159 117 158 112 161 110H175C178 112 177 117 174 118V126C176 130 181 134 184 142C188 152 186 168 178 178Z" fill="#b88457"/>
+<path d="M150 146C156 150 180 150 186 146M150 156C156 160 180 160 186 156M162 118H174" fill="none" stroke-width="2.5"/>
+<path d="M150.5 147C156 151 180 151 185.5 147L186 155C180 159 156 159 150 155Z" fill="#d9432b" stroke="none"/>
+<path d="M156 148C154 156 154 166 158 172" fill="none" stroke="#fff" stroke-width="4" opacity=".4"/>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<ellipse cx="100" cy="181" rx="88" ry="7" fill="#3a2618" opacity=".12"/>
+<g stroke="#3a2618" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M62 178V82H72V92H82V82H92V92H100L105 99L111 93L116 98L120 92H128V82H138V178Z" fill="#f6e7c8"/>
+<path d="M62 92H138V178H62Z" fill="#3a2618" opacity=".1" stroke="none"/>
+<path d="M62 106H138M62 120H138M62 134H138M62 148H138M62 162H138M76 92V106M100 92V106M124 92V106M70 106V120M90 106V120M112 106V120M130 106V120M78 120V134M122 120V134" fill="none" stroke-width="2.5"/>
+<path d="M78 178V136A22 22 0 0 1 122 136V178Z" fill="#ddd3c3"/>
+<path d="M86 178V136A14 14 0 0 1 114 136V178Z" fill="#8a5a36"/>
+<path d="M84.4 120.4L90.1 126.1M100 114V122M115.6 120.4L109.9 126.1M78 136H86M114 136H122M100 122V178M86 148H114M86 164H114" fill="none" stroke-width="2.5"/>
+<circle cx="94" cy="156" r="2" fill="#e8b33a" stroke-width="1.5"/>
+<circle cx="106" cy="156" r="2" fill="#e8b33a" stroke-width="1.5"/>
+<path d="M18 178V44H28V54H37V44H47V54H56V44H66V178Z" fill="#f6e7c8" transform="rotate(-3 18 178)"/>
+<g transform="rotate(-3 18 178)">
+<path d="M56 54H66V178H56Z" fill="#3a2618" opacity=".12" stroke="none"/>
+<path d="M18 70H66M18 86H66M18 102H66M18 118H66M18 134H66M18 150H66M18 166H66M30 54V70M50 54V70M26 70V86M58 70V86M30 102V118M50 102V118M24 118V134M42 118V134M60 118V134M32 134V150M52 134V150M26 150V166M44 150V166M60 150V166M36 166V178" fill="none" stroke-width="2.5"/>
+<rect x="31" y="134" width="20" height="16" fill="#ddd3c3" stroke-width="2.5"/>
+<path d="M36 100V86A6 6 0 0 1 48 86V100Z" fill="#5e3b22"/>
+<path d="M50 54L44 68L52 78L42 92L48 104L40 116" fill="none" stroke-width="3.5"/>
+</g>
+<path d="M134 178V44H144V54H151L157 46L163 57L169 50L175 59L182 55V178Z" fill="#f6e7c8"/>
+<path d="M172 57L182 55V178H172Z" fill="#3a2618" opacity=".12" stroke="none"/>
+<path d="M134 70H182M134 86H182M134 102H182M134 118H182M134 134H182M134 150H182M134 166H182M146 70V86M170 70V86M140 86V102M140 102V118M174 102V118M148 118V134M166 118V134M140 134V150M158 134V150M176 134V150M150 150V166M170 150V166M142 166V178M162 166V178" fill="none" stroke-width="2.5"/>
+<rect x="148" y="150" width="22" height="16" fill="#ddd3c3" stroke-width="2.5"/>
+<path d="M152 102V88A6 6 0 0 1 164 88V102Z" fill="#5e3b22"/>
+<path d="M163 57L156 72L166 84L154 100L164 116L156 132" fill="none" stroke-width="3.5"/>
+<path d="M108 96L102 108L110 116L104 124" fill="none" stroke-width="3.5"/>
+<rect x="104" y="60" width="14" height="10" fill="#f6e7c8" transform="rotate(22 111 65)"/>
+<rect x="168" y="28" width="14" height="10" fill="#f6e7c8" transform="rotate(32 175 33)"/>
+<rect x="150" y="16" width="11" height="8" fill="#ddd3c3" transform="rotate(-18 155 20)"/>
+<path d="M96 66Q94 72 96 78M160 36Q156 41 158 47M140 22Q136 27 138 32" fill="none" stroke-width="2.5"/>
+<path d="M120 178Q120 170 128 170Q136 170 136 178ZM56 178Q57 172 63 172Q69 172 70 178Z" fill="#ddd3c3" stroke-width="2.5"/>
+</g>
+</svg>

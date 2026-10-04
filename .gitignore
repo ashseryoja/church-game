@@ -1,0 +1,8 @@
+node_modules
+dist
+.sheet
+.vercel
+.claude
+.DS_Store
+# screenshot of a third-party game from the source document; kept locally only
+docs/reference.png
